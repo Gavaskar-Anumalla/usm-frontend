@@ -1,0 +1,33 @@
+.bg {
+  background-image: url("C:\Users\2000081217\Desktop\Frontend\Usm\react-app\src\React\Images\home.jpg");
+  width: 1307px;
+  height: 560px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  vertical-align: top;
+}
+.h1 {
+  padding: 0;
+  margin: 0;
+}
+.dropdown-center {
+  margin-top: 20px;
+}
+.cont {
+  background-image: url("C:\Users\2000081217\Desktop\Frontend\Usm\react-app\src\React\Images\welcome.jpg");
+
+  background-size: cover;
+
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+  text-align: 90px;
+
+  font-size: 60px;
+
+  font-weight: bold;
+
+  margin-left: 40%;
+}

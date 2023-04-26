@@ -1,0 +1,35 @@
+.anybutton {
+    top: 35%;
+    left: 100%;
+    width: 100px;
+    height: 35px;
+    position: absolute;
+    z-index: 2;
+    background: blue;
+}
+
+.input {
+    top: 35%;
+    left: 100%;
+    width: 100px;
+    height: 35px;
+    position: absolute;
+    z-index: 2;
+
+}
+
+.tab {
+    background: "F99595";
+}
+
+.background {
+    background-image:
+        url("C:\Users\2000081217\Desktop\Frontend\Usm\react-app\src\React\Images\Search.avif");
+    margin-top: 0.25%;
+    width: 1300px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
